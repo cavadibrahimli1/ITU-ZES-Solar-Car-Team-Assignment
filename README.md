@@ -8,7 +8,7 @@
 
 This repository contains answers to the entrance assignment for the ITU ZES Solar Car Team. The assignment consists of several questions related to solar car technology, engineering, and project management
 
-| Question            | Topic                                                              |
+| Question            | Solution                                                              |
 | ----------------- | ------------------------------------------------------------------ |
 | 1st question | https://github.com/cavadibrahimli1/ITU-ZES-Solar-Car-Team-Assignment/blob/main/1-st-question.md |
 | 2nd question| https://github.com/cavadibrahimli1/ITU-ZES-Solar-Car-Team-Assignment/blob/main/2-nd-question.md |
